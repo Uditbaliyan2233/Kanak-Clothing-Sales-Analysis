@@ -1,4 +1,4 @@
-# Kanak-Clothing-Sales-Analysis
+# Kanak-Clothing-Sales-Analysis using Power BI
 This Excel-based data analytics project explores the annual sales performance of a retail store.
 Key highlights of the project:
 
